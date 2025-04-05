@@ -1,6 +1,6 @@
 {
-    "version": "1.0.0",
-    "url": "https://github.com/ManuelSalaz/mi-app-updates/releases/download/v1.0.0/update.zip",
-    "releaseNotes": "Versión inicial",
-    "mandatory": true
+    "Version": "1.0.0",
+    "Url": "https://github.com/ManuelSalaz/mi-app-updates/releases/download/v1.0.0/update.zip",
+    "ReleaseNotes": "Versión inicial",
+    "Mandatory": true
 }
