@@ -1,6 +1,7 @@
 {
-    "Version": "1.0.0",
-    "Url": "https://github.com/ManuelSalaz/mi-app-updates/releases/download/v1.0.0/update.zip",
-    "ReleaseNotes": "Versión inicial",
-    "Mandatory": true
+  "version": "1.0.0",
+  "url": "https://drive.google.com/uc?export=download&id=1AG3hZfr_MVM2RxTW8_9s-ImM8R4LqP0a",
+  "checksum": "a1b2c3d4...", // SHA-256 del ZIP
+  "releaseNotes": "✓ Mejoras de rendimiento\n✓ Nuevo diseño",
+  "mandatory": true
 }
