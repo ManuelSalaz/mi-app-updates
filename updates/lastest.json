@@ -2,5 +2,6 @@
   "Version": "1.0.0",
   "Url": "https://github.com/ManuelSalaz/mi-app-updates/releases/download/updates/update.zip",
   "ReleaseNotes": "✓ Mejoras de rendimiento\n✓ Nuevo diseño",
-  "Mandatory": true
+  "Mandatory": true,
+  "Checksum": "A1B2C3D4E5F6..." 
 }
